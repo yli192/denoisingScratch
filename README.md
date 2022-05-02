@@ -14,7 +14,7 @@ Then run training looop!
 
 
 ```bash
-python train.py --n_gpu [NUMBER OF GPUS FOR TRAINING] --conf config/diffusion.conf 
+python train.py
 ```
 ## Testing
 
